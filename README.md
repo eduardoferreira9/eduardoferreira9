@@ -3,6 +3,7 @@
 <a href="https://github.com/eduardoferreira9/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoferreira9&hide=contribs,prs&theme=midnight-purple" />
 </a>
+<br></br>
 <a href="https://github.com/eduardoferreira9/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoferreira9&layout=compact&langs_count=8&card_width=120&theme=midnight-purple"/>
 </a>
