@@ -1,5 +1,8 @@
-### Prazer! Sou o Eduardo 😀
 
+
+
+### Prazer! Sou o Eduardo 😀
+<div id="container" style="display:flex; justify-contente: center; align-itens: center;">
 <a href="https://github.com/eduardoferreira9/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoferreira9&hide=contribs,prs&theme=midnight-purple" />
 </a>
@@ -15,6 +18,7 @@
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  </div>
 </div>
   
   ##
