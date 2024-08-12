@@ -1,7 +1,7 @@
 
 
 
-### Prazer! Sou o Eduardo 😀
+### Prazer! Sou o Eduardo 
 <div id="container" style="display:flex; justify-contente: center; align-itens: center;">
 <a href="https://github.com/eduardoferreira9/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoferreira9&hide=contribs,prs&theme=merko" />
