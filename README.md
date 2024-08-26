@@ -9,7 +9,9 @@
 <a href="https://github.com/eduardoferreira9/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoferreira9&layout=compact&langs_count=8&card_width=320&hide=html&theme=dark&show_icons=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)"></a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 
 <div style="display: inline_block; justify-content: space-between;"><br>
