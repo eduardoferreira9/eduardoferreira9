@@ -2,7 +2,7 @@
 
 
 ### Prazer! Sou o Eduardo 
-<div id="container" style="display:flex; justify-contente: center; align-itens: center;">
+<div id="container" style="display:flex; justify-contente: center; align-itens: center; flex-direction: row;">
 <a href="https://github.com/eduardoferreira9/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoferreira9&theme=dark&show_icons=true" />
 </a>
@@ -20,11 +20,6 @@
   <img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   </div>
   
-<div> 
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
 
 
 
