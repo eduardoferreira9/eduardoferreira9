@@ -4,7 +4,7 @@
 ### Prazer! Sou o Eduardo 
 <div id="container" style="display:flex; justify-contente: center; align-itens: center;">
 <a href="https://github.com/eduardoferreira9/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoferreira9" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoferreira9&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/eduardoferreira9/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoferreira9&layout=compact&langs_count=8&card_width=320&hide=html&theme=dark&show_icons=true" />
