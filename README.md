@@ -8,4 +8,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,react,python,nodejs,mysql,postgresql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,mysql,postgresql&theme=dark)](https://skillicons.dev)
