@@ -3,7 +3,7 @@
 <img align="right" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width=300px alt="coding gif">
 
 - Estudante de Ciência da computação
-  
+- Contato: ef02830@gmail.com
 <br/><br/>
 
 <h3 align="left">Ferramentas:</h3>
