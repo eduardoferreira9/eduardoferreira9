@@ -6,6 +6,6 @@
   
 <br/><br/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Ferramentas:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,mysql,postgresql&theme=dark)](https://skillicons.dev)
