@@ -3,9 +3,9 @@
 <img align="right" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width=300px alt="coding gif">
 
 - Estudante de Ciência da Computação
-#  
+
 <br/><br/>
 
 <h3 align="left">Languages and Tools:</h3>
-
+#  
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,mysql,postgresql&theme=dark)](https://skillicons.dev)
