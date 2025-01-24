@@ -4,7 +4,6 @@
 
 - Estudante de Ciência da computação
 - Contato: ef02830@gmail.com
-<br/><br/>
 #
 
 <h3 align="left">Ferramentas:</h3>
