@@ -5,7 +5,6 @@
 - Estudante de Ciência da Computação
 - Assistente de Infraestrutura Jr
 - Desenvolvedor de Scripts
-<br/><br/>
 #
 <h3 align="left">Languages and Tools:</h3>
 
