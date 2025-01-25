@@ -3,6 +3,8 @@
 <img align="right" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width=300px alt="coding gif">
 
 - Estudante de Ciência da Computação
+- Assistente de Infraestrutura Jr
+- Desenvolvedor de Scripts
 
 <br/><br/>
 
