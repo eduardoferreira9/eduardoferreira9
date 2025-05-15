@@ -7,4 +7,4 @@
 #
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,javascript,php,mysql,postgresql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,javascript,php,mysql,java,postgresql&theme=dark)](https://skillicons.dev)
